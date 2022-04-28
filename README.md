@@ -1,1 +1,1 @@
-# PythonBootcamp
+Series of my Python projects
