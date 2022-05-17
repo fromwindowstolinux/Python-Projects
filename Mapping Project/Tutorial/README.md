@@ -1,1 +1,0 @@
-Map of USA has been used for this tutorial
