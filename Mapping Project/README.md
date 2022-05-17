@@ -1,3 +1,1 @@
-This program generates interactive web maps with Python. The program combines the core Python building blocks such as conditionals, for-loops, functions, and file processing with the extras of a third-party Python library used to generate beautiful web maps. Building this program has helped me practice the Python core concepts, and I have also learn how to approach and use third-party Python libraries. 
-
-A web map is a map that is displayed through a browser and can be visited through the web. This map was built with Python and Folium. Folium is a Python library. The map has three layers. It has a base map layer, the map with names on the back. It has a polygon layer, which represents the population of the countries. It has the point layer with the radio button to turn on and off these layers. It also have pop-up windows.
+Map of USA has been used for this tutorial
