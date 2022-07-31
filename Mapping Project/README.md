@@ -4,4 +4,4 @@ This program generates interactive web maps with Python. The program combines th
 
 The snapshot below shows the stamenterrain of the map.
 
-[Imgur](https://imgur.com/yu4Rsb2)
+[Imgur](https://i.imgur.com/yu4Rsb2.png)
